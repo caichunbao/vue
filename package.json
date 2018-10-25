@@ -1,0 +1,22 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "description": "vue源码解释 > 纸上得来终觉浅，绝知此事要躬行",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caichunbao/vue.git"
+  },
+  "author": "chunbao.ai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caichunbao/vue/issues"
+  },
+  "homepage": "https://github.com/caichunbao/vue#readme",
+  "devDependencies": {
+    "vue": "^2.5.17"
+  }
+}
