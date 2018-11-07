@@ -9,9 +9,9 @@ vue源码解释
 ## 代码
 `printf("hello world);`
 
-(```)
+```js
     function fun(){
          echo "这是一句非常牛逼的代码";
     }
     fun();
-(```)
+```
