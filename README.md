@@ -9,14 +9,14 @@ vue源码解释
 `printf("hello world);`
 
 ```js
-    function fun(){
-         echo "这是一句非常牛逼的代码";
-    }
-    fun();
+function fun(){
+        echo "这是一句非常牛逼的代码";
+}
+fun();
 ```
 ## 表格
 表头|表头|表头
 :--:|:--:|:--:
 内容|内容|内容
 ## 连接
-[遥望](http://www.aixinjueluochunbao.top)
+[遥望](http://jq.aixinjueluochunbao.top)
